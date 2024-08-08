@@ -40,10 +40,15 @@ h2 {
 
 .link-button {
     text-decoration: none;
-    color: black;
+    color:aquamarine ;
     border: 1px solid gray;
     background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+.link-button:hover {
+    background-color: aqua;
+}
+
